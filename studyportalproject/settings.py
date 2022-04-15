@@ -26,7 +26,7 @@ STATIC_DIR=os.path.join(BASE_DIR,'static')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['studentstudyapp.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
